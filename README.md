@@ -5,4 +5,4 @@
 
 ![f1]
 
-[f1]: http://chart.apis.google.com/chart?cht=tx&chl={\mathcal L_{total} = \alpha \mathcal L_{content}(input,content) + \beta \mathcal L_{style_1}(input,style_1) + \gamma \mathcal L_{style_2}(input,style_2)}
+[f1]: http://chart.apis.google.com/chart?cht=tx&chl=L_{total} = \alpha L_{content}(input,content) + \beta L_{style_1}(input,style_1) + \gamma L_{style_2}(input,style_2)
