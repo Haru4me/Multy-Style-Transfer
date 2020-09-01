@@ -6,9 +6,12 @@
 <img src="https://latex.codecogs.com/svg.latex?\centering&space;\mathcal{L}_{total}=\alpha\mathcal{L}_{content}(input,content)+\beta\mathcal{L}_{style_1}(input,style_1)+\gamma\mathcal{L}_{style_2}(input,style_2)"/>
 
 Получившийся результат представлен ниже
+<p align="center">
+    <img src="/results/Unknown-4.png" width="480"\>
+</p>
 
-![pic1](/results/Unknown-4.png)
-
-![pic2](/results/Unknown-5.png)
+<p align="center">
+    <img src="/results/Unknown-5.png" width="480"\>
+</p>
 
 Изначально в ноутбуке перенос стиля применяется к второму случаю
