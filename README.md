@@ -21,6 +21,7 @@
 ## Запуск
 
 ```
+git clone https://github.com/Haru4me/Multy-Style-Transfer
 cd ./Multy-Style-Transfer
 python3 run.py
 ```
